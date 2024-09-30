@@ -1,2 +1,3 @@
-# hockey
-globant java course
+# # Migthy Ducks Hockey League
+
+Globant Java Course
